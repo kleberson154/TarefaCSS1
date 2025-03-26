@@ -1,0 +1,33 @@
+body{
+    background-image: url("./img/img_exercicio_css.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: #248030;
+    color: #fff;
+}
+
+main{
+    background-color: #ffff8c;
+}
+
+a{
+    color: #248030;
+}
+
+input[type="submit"]{
+    background-color: #248030;
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: #fff;
+}
+
+.border-radius{
+    border-radius: 5px;
+}
